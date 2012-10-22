@@ -8,7 +8,7 @@
 
 		First:you should find hosts file to add something like this.(Once it is my website,but it is closedd by myself).
 			127.0.0.1  www.days366.com
-		Second:create a database and find dir SQL ,execute the day.sql.Change Application/Configs/Config.ini By your environment.
+		Second:create a database and execute the day.sql.Change Application/Configs/Config.ini By your environment.
 		Third:Use directory public as documentRoot.
 		
 	tips:
