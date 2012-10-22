@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+/*header*/
+.header{background:#5E87B0;}
+.header{margin-bottom:40px;}
+/*mainpage*/
+#login {padding-bottom:40px;}
+#login label.error{display:inline-block;width:300px;color:red;font-weight:normal;}
+.row hr{margin-top:10px;}
+#login label{font-size:13px;font-weight:bolder;width:100px;}
+#login .controls{margin-left:115px;}
+#login input{height:20px;}
+#login #loginError{margin-left:100px;}
+#register{display:inline-block;margin-left:20px;}
+#registerForm{padding-top:40px;}
+#registerForm label.error{display:inline-block;width:300px;color:red;font-weight:normal;}
+#registerError label.error{display:block;color:red;font-weight:normal;margin-left:50px;}
+.span8 .section{padding-left:40px;padding-bottom:30px;}
+.span8 ul{padding-left:40px;}
+.span8 ul li{font-size:15px;padding:15px;}
+.row .span12 #formMain{padding-bottom:20px;}
+.row .span12 hr{margin-top:0}
+#registerError{margin-left:100px;}
+

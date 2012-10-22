@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+img.thumbnail{width:195px;display:inline-block;margin-left:13px;margin-top:10px;margin-bottom:10px;}
+.thumbnail{margin-bottom:10px;}
+#result{margin-left:20px;margin-right:20px;border-top:1px solid #eee;}
+.result{margin-bottom:15px;}.resultImgData{display:inline-block;float:left;margin:10px;} 
+.resultTextData{display:block;margin-top:10px;margin-bottom:10px;}
+.result hr{margin:0;padding:0;}
+.resultTextData .buttons{margin-top:10px;margin-bottom:12px;}
+.thumbnail h4{margin:10px;}
+
+/*天数导航*/
+#chooseDate{position:absolute;}
+.labelWall{position:absolute;display:inline-block;left:100px;top:55px;font-size:1.2em;font-weight:800;color:#62C462}
+.labelDay{position:absolute;display:inline-block;left:420px;top:55px;font-size:1.2em;}
+.labelMonth{position:absolute;display:inline-block;left:300px;top:55px;font-size:1.2em;}
+.wallGo{position:absolute;left:460px;top:50px;}
+.wallGo a{width:40px;}
+#dateMonth{display:inline-block;margin-left:200px;margin-right:10px;}
+#dateDay{display:inline-block;margin-left:30px;margin-right:10px;}
+#dateDay button{display:block;margin:0px;margin-left:25px;}
+#dateMonth button{display:block;margin:0px;margin-left:25px;}
+#dateDay span,#dateMonth span{font-size:2.5em;text-align:center;margin-top:5px;margin-bottom:5px;}
+#dateMonth span,#dateDay span{display:inline-block;width:50px;height:50px;background:#fff;}
+
+/*displayWall*/
+#displayWall .success{padding-left:50px;}
+#displayWall img.ownWallImg{margin-top:20px;}
+.result .item{padding:5px;width:230px;background:#fff;margin-left:14px;margin-bottom:20px;}
+.item .resultImgData{margin-left:0px;padding-left:0px;margin-top:15px;}
+.item .resultImgData img{border-radius:6px;}
+.item .resultTextData{margin-right:0px;padding-right:0px;margin-top:15px;width:175px;margin-left:60px;}
+.item .resultTextData a,h6{font-size:12px;font-weight:normal;padding-bottom:5px;}
+.item .resultTextData p{font-size:12px;line-height:1.8em;}
+.item .resultTextData h3{text-align:center;}
+.result .item .resultTextData p a{display:inline-block;overflow:hidden;width:160px;}
+/*nav*/
+.table td{padding-top:10px;padding-bottom:10px;}
+.table .navItem{text-align:center;}
+.table .navItem img{display:block;margin-left:60px;margin-bottom:5px;}
+.table .navItem  div{font-size:13px;}
+.table .userImg img{border-radius:5px;}
+#wallNav .userImgNotLogin{width:120px;}
+.userImgNotLogin .btn{display:block;margin-left:25px;margin-bottom:5px;margin-right:15px;}
+.table .twitterNav .navItem img{display:block;margin-left:30px;}
+.searchWall #ownWall{margin-left:130px;}

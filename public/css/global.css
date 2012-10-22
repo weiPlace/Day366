@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+/*header*/
+.row hr{margin-top:0px;}
+.header{background:#5E87B0;}
+.row .pull-left{margin-top:0px;}
+/*mainpage*/
+.span12 h2{padding:0;margin:0;}
+.span12 div{padding-left:15px;margin-top:15px;line-height:1.8em;}
+.span12 div h3{padding-bottom:15px;}
+.row .about{padding-bottom:200px;}
+.row .span12{padding-bottom:20px;}
+.row .span12 p{line-height:1.8em;font-size:13px;}
+.row .span12 ul li{line-height:1.8em;font-size:13px;}
+.row .span12 #mainifesto{padding-bottom:30px;}
+.row .span12 #contact{padding-bottom:120px;}
+.row .span12 .browserPic {padding-top:20px;padding-bottom:20px;}
+.row .span12 .browserPic img{padding-left:70px;}
+.row .span12 #findPass{padding-bottom:150px;}
+.row .span12 .registerSuccess{padding-bottom:250px;}

@@ -1,0 +1,1 @@
+function createXMLHttpRequest(){var A=false;if(window.XMLHttpRequest){if(typeof XMLHttpRequest!="undefined"){try{A=new XMLHttpRequest()}catch(B){A=false}}}else{if(window.ActiveXObject){try{A=new ActiveXObject("Msxml2.XMLHTTP")}catch(B){try{A=new ActiveXObject("Microsoft.XMLHTTP")}catch(B){A=false}}}}return A};

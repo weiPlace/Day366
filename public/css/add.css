@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+#addImg{padding:20px;margin-right:15px;}
+#addImg .btn{display:block;margin-bottom:10px;}
+#main{padding:20px;margin-left:0px;}
+#main h4{padding-bottom:5px;}
+#main div{padding-bottom:5px;}
+#main textarea{height:200px;}
+#main label{width:40px;}
+#main .controls{margin-left:60px;}
+#main label.error{width:200px;display:block;}
